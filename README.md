@@ -1,0 +1,6 @@
+# Jigsaw-puzzle-solver-using-Prim-MST
+A python program that assembles square and rectangular pieces of a puzzle with 100% accuracy for up to 100 pieces with a total time complexity of O(N^2)
+
+check the requirementstxt for the libraries needed to run the program
+
+the bash.sh file inlcudes commands to run the program via the terminal
